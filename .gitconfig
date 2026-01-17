@@ -1,0 +1,6 @@
+[user]
+	name = sumon9007
+	email = sumon9007@gmail.com
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential

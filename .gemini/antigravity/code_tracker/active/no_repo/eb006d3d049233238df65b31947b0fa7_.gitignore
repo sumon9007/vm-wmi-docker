@@ -1,0 +1,33 @@
+¥# System files
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.wget-hsts
+.ssh/
+.gnupg/
+.cache/
+.local/
+.config/
+.lesshst
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Docker/Project specific
+data/
+logs/
+*.log
+tmp/
+node_modules/
+dist/
+build/
+.env
+.antigravity*
+!.antigravity/brain/
+
+ê*cascade08ê¥*cascade082 file:///home/wmiadmin/.gitignore

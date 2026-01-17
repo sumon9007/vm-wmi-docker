@@ -1,0 +1,19 @@
+- [x] Create implementation plan (Structure) <!-- id: 11 -->
+- [x] Create folder structure <!-- id: 12 -->
+    - [x] `config/` <!-- id: 13 -->
+    - [x] `data/` <!-- id: 15 -->
+    - [x] `logs/` <!-- id: 16 -->
+    - [x] `docs/` <!-- id: 17 -->
+- [x] Update README.md with directory descriptions <!-- id: 18 -->
+- [x] Create `scripts/git-setup.sh` <!-- id: 19 -->
+    - [x] Install/Update Git <!-- id: 20 -->
+    - [x] Configure Git (Name, Email) <!-- id: 21 -->
+    - [x] Guide for Browser Login <!-- id: 22 -->
+- [x] Initialize Git Repo <!-- id: 23 -->
+    - [x] `git init` in `/home/wmiadmin` <!-- id: 24 -->
+    - [x] Create `.gitignore` <!-- id: 25 -->
+    - [x] Commit initial files <!-- id: 26 -->
+- [x] Push to GitHub <!-- id: 27 -->
+    - [x] Create repo `vm-wmi-docker` <!-- id: 28 -->
+    - [x] Add remote origin <!-- id: 29 -->
+    - [x] Push to main <!-- id: 30 -->
